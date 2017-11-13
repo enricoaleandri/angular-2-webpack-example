@@ -1,0 +1,6 @@
+{
+  "generator-ng2-webpack": {
+    "appname": "example-2",
+    "clientFolder": "src"
+  }
+}
